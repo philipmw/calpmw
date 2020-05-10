@@ -1,0 +1,6 @@
+#!/bin/sh -x
+NUMDAYS=$1
+if [ -z "$NUMDAYS" ]; then
+	NUMDAYS=183
+fi
+./cal.py data/events-recurrent data/last-recurrent data/events-single $NUMDAYS

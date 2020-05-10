@@ -1,0 +1,30 @@
+# vim:ts=8
+# Start		recur	recur	days	exclude	show	time	time	event
+# date		unit	every	exclude	bef/aft occur#	start	end	name
+1985-02-11	year	1	-	-	y	-	-	Graham's birthday
+2009-02-14	year	1	-	-	n	-	-	Valentine's Day
+2009-04-01	year	1	-	-	n	-	-	CR pull from Experian
+1986-03-24	year	1	-	-	y	-	-	Andreas' birthday
+2011-04-06	year	1	-	-	n	-	-	Shareholder ballot: Walmart
+2009-04-15	year	1	su	b	n	-	-	End of IRS year (tax/IRA)
+2009-04-18	month	1	su	a	n	-	-	SS deposit to dad
+1957-04-18	year	1	-	-	y	-	-	Jeff's birthday
+1990-04-27	year	1	-	-	y	-	-	Sue's birthday
+2009-05-08	year	1	mtwrfs	a	n	-	-	Mother's Day
+2010-06-01	month	6	-	-	n	-	-	Update invcalc ERs and UDs
+2009-06-16	year	1	su	b	n	-	-	qnan.org renewal
+2009-06-21	year	1	mtwrfs	a	n	-	-	Father's Day
+1945-07-07	year	1	-	-	y	-	-	Dennis' birthday
+1961-07-26	year	1	-	-	y	-	-	Yunhi's birthday (lunar calendar)
+2009-07-31	year	1	-	-	n	-	1700	PO box renewal due
+2009-08-01	year	1	-	-	n	-	-	CR pull from Equifax
+2009-10-03	month	1	-	-	n	-	-	Pay Sprint bill (automatic)
+1956-10-05	year	1	-	-	y	-	-	Mom's birthday
+2009-10-26	month	1	-	-	n	-	1700	Pay rent online
+2009-11-03	month	1	-	-	n	-	-	Pay Qwest bill (automatic)
+1985-11-04	year	1	-	-	y	-	-	My birthday
+2009-11-03	month	1	mt	a	n	-	-	Update budget and investments
+2009-11-09	month	1	-	-	n	-	1700	Pay electric bill
+2009-12-01	year	1	-	-	n	-	-	CR pull from TransUnion
+1944-12-19	year	1	-	-	y	-	-	Dad's birthday
+2008-12-25	year	1	-	-	y	-	-	S&P anniversary
